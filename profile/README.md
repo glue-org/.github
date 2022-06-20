@@ -1,3 +1,5 @@
+<img width="1225" alt="glue-logo-wide" src="https://user-images.githubusercontent.com/32162112/174629275-00deff63-7ff2-4f5e-9df9-40576b26c30f.png">
+
 ## Inspiration
 For Ethereum NFT communities it is the most normal thing in the world to verify the holder status of members via collab.land. collab.land is an integral part of the infrastructure and enables many interesting use-cases like token gated communities or token gated raffles. On the Internet computer, there are so far only specialized solutions that work exclusively with the respective projects and were developed specifically for this purpose. Not every project can and not every project *should* develop its own solution. So what has been missing so far is glue - an easy to use solution for community leaders and members to perform holder verification.
 
